@@ -1,0 +1,91 @@
+Category,Test Name,Value,Unit,Reference Range,Flag,Optimal Range,Status
+Iron Panel,Iron Total,144,mcg/dL,50-180,,80-120,In Range
+Iron Panel,Iron Binding Capacity,335,mcg/dL,250-425,,Context-dependent,In Range
+Iron Panel,% Saturation,43,%,20-48,,,In Range
+Iron Panel,Ferritin,120,ng/mL,38-380,,40-100,Above Optimal
+Thyroid,T3 Uptake,35,%,22-35,,,In Range
+Thyroid,T4 (Thyroxine) Total,5.9,mcg/dL,4.9-10.5,,,In Range
+Thyroid,Free T4 Index (T7),2.1,,1.4-3.8,,,In Range
+Thyroid,TSH,3.17,mIU/L,0.40-4.50,,1.0-2.0,Above Optimal
+Hormones,Albumin,4.6,g/dL,3.6-5.1,,4.5-5.2,Optimal
+Hormones,Sex Hormone Binding Globulin (SHBG),20,nmol/L,10-50,,20-40,Low End
+Hormones,Testosterone Total (MS),419,ng/dL,250-1100,,500-800,Below Optimal
+Hormones,Testosterone Free,80.1,pg/mL,46.0-224.0,,,In Range
+Hormones,Testosterone Bioavailable,168.2,ng/dL,110.0-575.0,,,In Range
+Cardiovascular,Lipoprotein(a),76,nmol/L,<75,HIGH,<75,Elevated
+Lipid Panel,Cholesterol Total,223,mg/dL,<200,HIGH,Context-dependent,High
+Lipid Panel,HDL Cholesterol,47,mg/dL,>= 40,,>50,Below Optimal
+Lipid Panel,Triglycerides,102,mg/dL,<150,,<70,Above Optimal
+Lipid Panel,LDL Cholesterol,154,mg/dL,<100,HIGH,<70,High
+Lipid Panel,Chol/HDL Ratio,4.7,,<5.0,,,In Range
+Lipid Panel,LDL/HDL Ratio,3.3,,<2.28,,<2.28,Above Optimal
+Lipid Panel,Non-HDL Cholesterol,176,mg/dL,<130,HIGH,<100,High
+Inflammation,hs-CRP,0.8,mg/L,<1.0,,<0.5,Good but Above Optimal
+Cardiovascular,Apolipoprotein B,109,mg/dL,<90,HIGH,<60,High
+Metabolic,Glucose (Fasting),103,mg/dL,65-99,HIGH,70-90,Prediabetic Range
+Metabolic,Urea Nitrogen (BUN),15,mg/dL,7-25,,,In Range
+Metabolic,Creatinine,1.04,mg/dL,0.60-1.29,,0.8-1.1,In Range
+Metabolic,eGFR,89,mL/min/1.73m2,>= 60,,>90,Slightly Below Optimal
+Metabolic,BUN/Creatinine Ratio,14,,6-22,,,In Range
+Metabolic,Sodium,139,mmol/L,135-146,,,In Range
+Metabolic,Potassium,3.9,mmol/L,3.5-5.3,,,In Range
+Metabolic,Chloride,104,mmol/L,98-110,,,In Range
+Metabolic,Carbon Dioxide,27,mmol/L,20-32,,,In Range
+Metabolic,Calcium,9.5,mg/dL,8.6-10.3,,,In Range
+Metabolic,Protein Total,7.0,g/dL,6.1-8.1,,,In Range
+Metabolic,Albumin,4.6,g/dL,3.6-5.1,,4.5-5.2,Optimal
+Metabolic,Globulin,2.4,g/dL,1.9-3.7,,,In Range
+Metabolic,Albumin/Globulin Ratio,1.9,,1.0-2.5,,,In Range
+Metabolic,Bilirubin Total,0.8,mg/dL,0.2-1.2,,0.5-1.0,Optimal
+Liver,Alkaline Phosphatase,41,U/L,36-130,,40-80,Optimal
+Liver,AST,21,U/L,10-40,,<25,Optimal
+Liver,ALT,25,U/L,9-46,,<25,Borderline Optimal
+Metabolic,HbA1c,5.8,%,<5.7,HIGH,<5.3,Prediabetic Range
+Metabolic,eAG,120,mg/dL,,,,
+Metabolic,Uric Acid,6.5,mg/dL,4.0-8.0,,4.0-5.5,Above Optimal
+Liver,Bilirubin Total,0.8,mg/dL,0.2-1.2,,,In Range
+Liver,Bilirubin Direct,0.1,mg/dL,<= 0.2,,,In Range
+Liver,Bilirubin Indirect,0.7,mg/dL,0.2-1.2,,,In Range
+Liver,GGT,29,U/L,3-95,,<20,Above Optimal
+Vitamins,Vitamin C,0.7,mg/dL,0.2-2.1,,,In Range
+Vitamins,Vitamin K,450,pg/mL,130-1500,,,In Range
+CBC,White Blood Cell Count,4.8,Thousand/uL,3.8-10.8,,4-7,Optimal
+CBC,Red Blood Cell Count,5.01,Million/uL,4.20-5.80,,,In Range
+CBC,Hemoglobin,15.0,g/dL,13.2-17.1,,14.5-16.0,Optimal
+CBC,Hematocrit,44.6,%,39.4-51.1,,42-48,Optimal
+CBC,MCV,89.0,fL,81.4-101.7,,85-92,Optimal
+CBC,MCH,29.9,pg,27.0-33.0,,,In Range
+CBC,MCHC,33.6,g/dL,31.6-35.4,,,In Range
+CBC,RDW,12.2,%,11.0-15.0,,<13,Optimal
+CBC,Platelet Count,262,Thousand/uL,140-400,,150-250,Slightly Above Optimal
+CBC,MPV,9.7,fL,7.5-12.5,,,In Range
+CBC,Absolute Neutrophils,2515,cells/uL,1500-7800,,,In Range
+CBC,Absolute Lymphocytes,1690,cells/uL,850-3900,,,In Range
+CBC,Absolute Monocytes,394,cells/uL,200-950,,,In Range
+CBC,Absolute Eosinophils,163,cells/uL,15-500,,,In Range
+CBC,Absolute Basophils,38,cells/uL,0-200,,,In Range
+CBC,Neutrophils,52.4,%,,,,In Range
+CBC,Lymphocytes,35.2,%,,,,In Range
+CBC,Monocytes,8.2,%,,,,In Range
+CBC,Eosinophils,3.4,%,,,,In Range
+CBC,Basophils,0.8,%,,,,In Range
+Vitamins,Vitamin B12,455,pg/mL,200-1100,,500-900,Below Optimal
+Vitamins,Folate Serum,12.5,ng/mL,>5.4,,10-20,Optimal
+Hormones,DHEA Sulfate,242,mcg/dL,61-442,,300-500,Below Optimal
+Hormones,Cortisol Total,8.7,mcg/dL,4.0-22.0 (AM),,10-18,Below Optimal
+Hormones,Estradiol,<30,pg/mL,<= 39,,,In Range
+Vitamins,Vitamin E Alpha Tocopherol,11.2,mg/L,5.7-19.9,,,In Range
+Vitamins,Vitamin E Beta Gamma Tocopherol,1.1,mg/L,<4.4,,,In Range
+Minerals,Magnesium RBC,5.4,mg/dL,4.0-6.4,,5.5-6.5,Slightly Below Optimal
+Minerals,Selenium,144,mcg/L,63-160,,100-150,Optimal
+Vitamins,Vitamin D 25-OH Total,86,ng/mL,30-100,,40-60,Above Optimal Range
+Cardio IQ NMR,LDL Particle Number (LDL-P),2143,nmol/L,<935,HIGH,<700,Very High
+Cardio IQ NMR,Small LDL-P,672,nmol/L,<467,HIGH,<467,Moderate Risk
+Cardio IQ NMR,LDL Size,21.3,nm,>20.5,,,Optimal
+Cardio IQ NMR,HDL Particle Number (HDL-P),35.4,umol/L,>32.8,,,Optimal
+Cardio IQ NMR,Large HDL-P,<3.0,umol/L,>7.2,HIGH,>7.2,Very Low
+Cardio IQ NMR,HDL Size,8.2,nm,>9.0,HIGH,>9.0,Below Optimal
+Cardio IQ NMR,Large VLDL-P,3.3,nmol/L,<3.7,,,Optimal
+Cardio IQ NMR,VLDL Size,45.4,nm,<47.1,,,Optimal
+Inflammation,ADMA,102,ng/mL,<100,HIGH,<100,Moderate Risk
+Inflammation,SDMA,81,ng/mL,73-135,,,In Range
