@@ -238,6 +238,42 @@ Cat-cow (10 reps) → Dead bugs (10/side) → Glute bridges (10) → Band pull-a
 
 ---
 
+## Bloating Management (Active Issue)
+
+**Most Likely Causes (Ranked)**
+
+| Cause | Why | Likelihood |
+|-------|-----|------------|
+| Berberine | Disrupts gut microbiome rapidly; 10–35% of users get GI symptoms; high intestinal exposure due to low bioavailability | 🔴 Most likely |
+| Fiber increase to 40-50g/day | Legumes have oligosaccharides; cruciferous veg have raffinose — both ferment and produce gas | 🔴 Very likely |
+| Fermented foods 2-4 servings/day | Transient microbiome disruption in first 2-4 weeks | 🟠 Likely (temporary) |
+| Magnesium glycinate 400mg | High-dose Mg can cause GI motility changes | 🟡 Possible |
+| Creatine 5g | Minor GI distress in subset of users | 🟡 Less likely |
+
+**Immediate Dietary Fixes**
+- Always **cook cruciferous vegetables** (never raw) — steaming/roasting breaks down raffinose
+- **Soak and rinse legumes** — 8+ hours soak, discard water, rinse; or drain/rinse canned
+- **Spread fiber across all 3 meals** — 10-15g per meal, not loaded into one
+- **Stay hydrated** — 2+ liters/day; fiber needs water to transit
+- **Increase fiber gradually** if coming from lower intake — add ~5g every few days
+
+**Berberine Fix**
+- Take berberine **with food, mid-meal** (not on empty stomach)
+- If still symptomatic: drop to 500mg/day single dose for 2 weeks, then re-titrate
+- Option: split 500mg → 250mg with breakfast + 250mg with lunch
+
+**Evidence-Based Supplements to Add for Bloating**
+
+| Supplement | Dose | Evidence |
+|------------|------|----------|
+| Peppermint oil (enteric-coated) | 180-200mg, 30 min before meals | Strongest evidence — 2021 ACG guidelines recommend; multiple RCTs. Must be enteric-coated. |
+| Ginger root extract | 1,000-1,500mg/day with meals | RCTs: accelerates gastric emptying, prokinetic. Also anti-inflammatory (helps hs-CRP). |
+| Digestive enzymes (broad-spectrum with alpha-galactosidase) | 1 capsule with Meals 1 & 2 | Moderate RCT evidence: 58-68% less distension vs placebo. Targets oligosaccharides in legumes. |
+
+**Timeline**: Bloating typically peaks weeks 1-2 as gut adapts to berberine + high fiber, then improves significantly by weeks 3-4. If no improvement by week 4, discuss SIBO testing with physician.
+
+---
+
 ## Warning Signs — Contact Physician If:
 - Fasting glucose >115 mg/dL
 - Muscle pain/weakness (especially if statin started)
