@@ -197,51 +197,49 @@ Attia: Supplements are less impactful than lifestyle but targeted use has value.
 | **L-Theanine** | 200mg | Sleep quality, next-day calm | RCTs: improves sleep quality, reduces anxiety. Huberman stack | Skip if prone to vivid dreams/sleepwalking (Huberman notes this) |
 | **Glycine** | 2g | Sleep quality, liver support | RCTs: improves subjective sleep quality; also supports glutathione (liver/GGT) | Alternate every other night with L-theanine if desired |
 
-### Bloating Management (Active Issue)
+### Bloating Management (Pre-Existing Issue)
 
-**Root Causes in This Protocol (Ranked by Likelihood)**
+> **Important context**: Bloating pre-dates this protocol. Supplements are not the root cause. This protocol's high-fiber, high-fermented-food, legume- and cruciferous-heavy diet may be *worsening* a pre-existing condition that warrants investigation.
 
-| Cause | Mechanism | Likelihood |
-|-------|-----------|------------|
-| **Berberine** | Alters gut microbiome within days; low bioavailability means high intestinal exposure; affects motility via serotonin receptors. 10–35% of users report GI symptoms in clinical trials | 🔴 Most likely |
-| **Rapid fiber increase to 40-50g/day** | Legumes contain oligosaccharides; cruciferous veg contain raffinose — both ferment in large intestine, producing gas | 🔴 Very likely |
-| **Fermented foods 2-4 servings/day** | Beneficial long-term but causes transient microbiome disruption in first 2-4 weeks | 🟠 Likely (transient) |
-| **Magnesium glycinate 400mg** | High-dose magnesium can cause GI motility changes and loose stools in some | 🟡 Possible |
-| **Creatine 5g** | Minor GI distress in a subset of users, especially if taken dry | 🟡 Less likely |
+**Most Likely Underlying Causes**
 
-**Immediate Dietary Fixes**
+| Condition | Key Features | Why Suspect It |
+|-----------|-------------|----------------|
+| **SIBO** (Small Intestinal Bacterial Overgrowth) | Bloating within 60-90 min of eating, worse with carbs/fiber, often with gas and altered bowel habits | Very common and underdiagnosed; this protocol's high-fiber + fermented food load would feed bacterial overgrowth directly |
+| **IBS** (Irritable Bowel Syndrome) | Chronic bloating + altered bowel habits (constipation, diarrhea, or both) without structural cause | Prevalent; stress and dietary changes can worsen it |
+| **FODMAP sensitivity** | Bloating triggered by specific foods: legumes, onions, garlic, cruciferous veg, lactose (kefir), wheat | Meal 2 and Meal 3 in this protocol are high-FODMAP |
+| **Lactose intolerance** | Bloating and gas after dairy, including kefir | Kefir is in this protocol daily |
+| **Low stomach acid / digestive enzyme insufficiency** | Slow digestion, fullness after meals, bloating hours later | More common with age; high-protein meals worsen it |
 
-- **Cook cruciferous vegetables** — never raw. Steaming or roasting breaks down raffinose (the gas-producing sugar). Broccoli, Brussels sprouts, cauliflower: always cooked
-- **Soak and rinse legumes** — soak dried beans/lentils 8+ hours, discard soaking water, rinse well before cooking. Canned legumes: drain and rinse thoroughly
-- **Spread fiber through all 3 meals** — don't load 30g+ into Meal 2. Target 10-15g per meal
-- **Hydrate consistently** — fiber requires water to transit smoothly. 2+ liters/day
-- **Introduce fiber volume gradually** — if jumping from low to 40-50g, ramp over 2-3 weeks by adding ~5g every few days
+**Immediate Protocol Adjustments**
 
-**Berberine-Specific Fixes**
+The current diet is high in fermentable foods that will worsen all of the above conditions:
 
-- Take berberine **with food, mid-meal** (not before or after) — the presence of dietary fat buffers intestinal irritation
-- If still symptomatic, drop back to 500mg/day (single dose) for 2 weeks before adding the second dose
-- Consider splitting the 500mg dose: 250mg with breakfast, 250mg with lunch
+- **Reduce fermented foods temporarily** — pull back to 1 serving/day (not 2-4) until root cause is identified. Fermented foods feed SIBO if present
+- **Cook all cruciferous vegetables** — steaming/roasting reduces raffinose content
+- **Drain and rinse canned legumes** — reduces oligosaccharides by ~30-40%
+- **Try removing kefir for 2 weeks** — isolates lactose as a variable
+- **Spread fiber across all 3 meals** — 10-15g per meal maximum
 
-**Evidence-Based Supplements for Bloating Relief**
+**Diagnostic Priority: Get Tested**
+
+Do not optimize around the symptom without knowing the cause. Discuss with physician:
+
+1. **SIBO breath test** (hydrogen + methane) — gold standard non-invasive test. Methane-dominant SIBO causes bloating and constipation specifically
+2. **Stool test** (comprehensive) — GI-MAP or equivalent: parasites, dysbiosis markers, digestive enzyme markers, calprotectin (inflammation)
+3. **Food intolerance panel** — lactose, fructose breath tests if SIBO ruled out
+
+**If SIBO Confirmed**: Berberine is actually beneficial (antimicrobial against small intestinal overgrowth), but the high-fermented-food and high-fiber diet needs to be temporarily replaced with a low-FODMAP approach during treatment.
+
+**Symptomatic Relief (While Awaiting Diagnosis)**
 
 | Supplement | Dose | Evidence | Notes |
 |------------|------|----------|-------|
-| **Peppermint Oil** (enteric-coated) | 180-200mg, 30 min before meals | Strongest evidence — 2021 ACG guidelines conditionally recommend for GI spasm and bloating; RR 2.39 vs placebo across 7 trials | Must be enteric-coated (avoid plain peppermint oil — relaxes lower esophageal sphincter, worsens reflux). Reduces intestinal hypersensitivity and normalizes motility |
-| **Ginger** (root extract) | 1,000-1,500mg/day with meals | Multiple RCTs: accelerates gastric emptying, prokinetic (speeds transit), anti-inflammatory | Add to Meal 2. Also anti-inflammatory (supports hs-CRP goal). Can use fresh ginger in food |
-| **Digestive Enzymes** (broad-spectrum) | 1 capsule with Meals 1 and 2 | Moderate RCT evidence: combo enzymes reduce post-meal distension 58-68% vs placebo at 30-90 min | Especially useful for high-protein + high-fiber meals. Look for enzymes including amylase, protease, lipase, cellulase, alpha-galactosidase (targets oligosaccharides in legumes) |
+| **Peppermint Oil** (enteric-coated) | 180-200mg, 30 min before meals | Strongest evidence — 2021 ACG guidelines recommend for IBS and functional bloating | Must be enteric-coated. Antispasmodic, reduces intestinal hypersensitivity |
+| **Digestive Enzymes** (with alpha-galactosidase) | 1 capsule with Meals 1 & 2 | Moderate RCT evidence: 58-68% less distension vs placebo | Alpha-galactosidase specifically targets oligosaccharides in legumes/cruciferous veg |
+| **Ginger** (root extract) | 1,000mg with Meal 2 | RCTs: accelerates gastric emptying, prokinetic | Also anti-inflammatory (supports hs-CRP). Can use fresh ginger in food |
 
-**What NOT to Add**
-
-- Do not add activated charcoal (binds supplements and reduces absorption)
-- Simethicone addresses gas sensation but not the cause
-- Do not reduce fermented foods — the microbiome disruption is transient and the benefit is real
-
-**Timeline Expectation**
-
-- Weeks 1-2: Bloating likely peaks as gut microbiome adapts to berberine and fiber volume
-- Weeks 3-4: Significant improvement expected as gut bacteria adapt
-- If bloating persists beyond week 4 at same severity: consider SIBO testing (berberine + high fiber can unmask underlying SIBO)
+**Do NOT** add activated charcoal — binds supplements and reduces their absorption.
 
 ### Supplements to REDUCE or STOP
 

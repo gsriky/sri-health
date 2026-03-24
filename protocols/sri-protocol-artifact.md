@@ -238,39 +238,40 @@ Cat-cow (10 reps) → Dead bugs (10/side) → Glute bridges (10) → Band pull-a
 
 ---
 
-## Bloating Management (Active Issue)
+## Bloating Management (Pre-Existing Issue)
 
-**Most Likely Causes (Ranked)**
+> Bloating pre-dates this protocol — supplements are not the root cause. This protocol's high-fiber, high-fermented-food, legume- and cruciferous-heavy diet may be worsening a pre-existing condition.
 
-| Cause | Why | Likelihood |
-|-------|-----|------------|
-| Berberine | Disrupts gut microbiome rapidly; 10–35% of users get GI symptoms; high intestinal exposure due to low bioavailability | 🔴 Most likely |
-| Fiber increase to 40-50g/day | Legumes have oligosaccharides; cruciferous veg have raffinose — both ferment and produce gas | 🔴 Very likely |
-| Fermented foods 2-4 servings/day | Transient microbiome disruption in first 2-4 weeks | 🟠 Likely (temporary) |
-| Magnesium glycinate 400mg | High-dose Mg can cause GI motility changes | 🟡 Possible |
-| Creatine 5g | Minor GI distress in subset of users | 🟡 Less likely |
+**Most Likely Underlying Causes**
 
-**Immediate Dietary Fixes**
-- Always **cook cruciferous vegetables** (never raw) — steaming/roasting breaks down raffinose
-- **Soak and rinse legumes** — 8+ hours soak, discard water, rinse; or drain/rinse canned
-- **Spread fiber across all 3 meals** — 10-15g per meal, not loaded into one
-- **Stay hydrated** — 2+ liters/day; fiber needs water to transit
-- **Increase fiber gradually** if coming from lower intake — add ~5g every few days
+| Condition | Key Clue | Why Suspect It |
+|-----------|----------|----------------|
+| **SIBO** | Bloating within 60-90 min of eating, worse with carbs/fiber | High-fiber + fermented food protocol feeds bacterial overgrowth directly |
+| **IBS** | Chronic bloating + altered bowel habits | Stress and dietary shifts can trigger/worsen it |
+| **FODMAP sensitivity** | Specific trigger foods: legumes, cruciferous veg, kefir | Meals 2 and 3 are high-FODMAP |
+| **Lactose intolerance** | Bloating/gas after dairy | Kefir is a daily food in this protocol |
+| **Low stomach acid / enzyme deficiency** | Fullness and bloating hours after meals | High-protein diet worsens it |
 
-**Berberine Fix**
-- Take berberine **with food, mid-meal** (not on empty stomach)
-- If still symptomatic: drop to 500mg/day single dose for 2 weeks, then re-titrate
-- Option: split 500mg → 250mg with breakfast + 250mg with lunch
+**Get Tested — Don't Optimize Around Unknown Root Cause**
+- **SIBO breath test** (hydrogen + methane) — non-invasive, gold standard
+- **Comprehensive stool test** (GI-MAP or equivalent) — dysbiosis, inflammation, enzyme markers
+- **Lactose/fructose breath test** if SIBO ruled out
 
-**Evidence-Based Supplements to Add for Bloating**
+**Immediate Protocol Adjustments While Awaiting Diagnosis**
+- Reduce fermented foods to 1 serving/day (not 2-4) — fermented foods feed SIBO if present
+- Cook all cruciferous vegetables — reduces raffinose content
+- Drain/rinse canned legumes — reduces oligosaccharides ~30-40%
+- Try removing kefir for 2 weeks to isolate lactose as a variable
+
+**Note on Berberine if SIBO confirmed**: Berberine is antimicrobial and *beneficial* for SIBO, but the high-fermented-food and high-fiber diet should be temporarily replaced with a low-FODMAP approach during treatment.
+
+**Symptomatic Relief (While Awaiting Diagnosis)**
 
 | Supplement | Dose | Evidence |
 |------------|------|----------|
-| Peppermint oil (enteric-coated) | 180-200mg, 30 min before meals | Strongest evidence — 2021 ACG guidelines recommend; multiple RCTs. Must be enteric-coated. |
-| Ginger root extract | 1,000-1,500mg/day with meals | RCTs: accelerates gastric emptying, prokinetic. Also anti-inflammatory (helps hs-CRP). |
-| Digestive enzymes (broad-spectrum with alpha-galactosidase) | 1 capsule with Meals 1 & 2 | Moderate RCT evidence: 58-68% less distension vs placebo. Targets oligosaccharides in legumes. |
-
-**Timeline**: Bloating typically peaks weeks 1-2 as gut adapts to berberine + high fiber, then improves significantly by weeks 3-4. If no improvement by week 4, discuss SIBO testing with physician.
+| Peppermint oil (enteric-coated) | 180-200mg, 30 min before meals | Strongest evidence — 2021 ACG guidelines; antispasmodic, reduces intestinal hypersensitivity |
+| Digestive enzymes (with alpha-galactosidase) | 1 capsule with Meals 1 & 2 | Moderate RCT evidence; alpha-galactosidase targets legume oligosaccharides specifically |
+| Ginger root extract | 1,000mg with Meal 2 | RCTs: accelerates gastric emptying, prokinetic; also anti-inflammatory (hs-CRP) |
 
 ---
 
