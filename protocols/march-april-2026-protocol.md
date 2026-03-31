@@ -3,33 +3,86 @@
 **Status**: Active
 **Start Date**: 2026-03-10
 **Review Date**: 2026-06-01 (with labs)
-**Based on**: 2026-03-06 lab results + 2026-03-17 imaging/additional tests
+**Based on**: 2026-03-06 baseline labs + 2026-03-17 imaging + 2026-03-18 follow-up labs
 **Frameworks**: Peter Attia (Medicine 3.0), Bryan Johnson (Blueprint), Andrew Huberman (Huberman Lab), Evidence-based exercise science
+
+---
+
+## 12-Day Progress Update — 3/06 → 3/18 (collected 3/18, reported 3/23)
+
+> Labs drawn 3/18 — only 8 days into the protocol. These early trends are meaningful.
+
+### Wins
+
+| Biomarker | 3/06 | 3/18 | Change | Status |
+|-----------|------|------|--------|--------|
+| Fasting Glucose | 103 | **95** | ▼ 8 pts | ✅ Back to normal range |
+| Triglycerides | 102 | **74** | ▼ 28 pts | ✅ Hit <80 optimal target |
+| LDL-C | 154 | **133** | ▼ 21 pts | 🟡 Still high, moving right direction |
+| HDL-C | 47 | **51** | ▲ 4 pts | 🟡 Improving |
+| ApoB | ~109 | **106** | ▼ 3 pts | 🟡 Slight improvement |
+| TSH | 3.17 | **2.72** | ▼ 0.45 | 🟡 Trending toward optimal |
+| Uric Acid | 6.5 | **6.3** | ▼ 0.2 | 🟡 Improving, not yet at <6.0 |
+| GGT | 29 | **27** | ▼ 2 pts | 🟡 Improving |
+| Ferritin | 120 | **107** | ▼ 13 pts | 🟡 Trending down |
+| Platelet Count | 262 | **239** | ▼ 23 pts | ✅ Now within optimal range |
+| Vitamin D | 86 | **72** | ▼ 14 pts | 🟡 Reducing as planned, still above 60 |
+| DHEA-S | 242 | **266** | ▲ 24 pts | 🟡 Slight improvement |
+
+### New Concerns
+
+| Finding | Value | Significance |
+|---------|-------|-------------|
+| **Homocysteine** | **13.8 umol/L HIGH** (ref ≤13.5) | NEW TEST — elevated. CV risk factor. Likely B12-driven. Action needed |
+| **Testosterone Total** | **328 ng/dL** (was 419) | Significant drop. Different method (MS) may explain some difference. Needs morning retest + physician discussion |
+| **B12** | **398 pg/mL** (was 455) | Below 500 optimal. Supplement only 8 days in. Continue 1,000 mcg methylcobalamin |
+| **Lp(a)** | **87 nmol/L** (was 76) | Slight increase, same moderate risk category. Genetic — not lifestyle-modifiable |
+
+### New Data (First-Time Tests)
+
+| Test | Value | Interpretation |
+|------|-------|---------------|
+| **Fasting Insulin** | 9.2 uIU/mL (≤18.4) | ✅ In range |
+| **HOMA-IR** (calculated) | **(95 × 9.2) / 405 = 2.16** | Borderline — Attia optimal <1.0; IR threshold ~2.5. Early insulin resistance confirmed |
+| **Free T3** | 3.5 pg/mL (2.3-4.2) | ✅ Normal — thyroid hormone conversion working |
+| **Thyroid antibodies** | Both negative | ✅ Hashimoto's ruled out — TSH elevation is not autoimmune |
+| **Folate** | 16.6 ng/mL (normal >5.4) | ✅ Normal folate — homocysteine elevation more likely B12-driven |
+| **IGF-1** | 88 ng/mL, Z-score -1.0 | Low-normal. Not urgent but monitor. |
+| **Sed Rate (ESR)** | 2 mm/h (≤15) | ✅ Excellent — very low systemic inflammation |
+| **Cortisol** | 5.8 mcg/dL | Collected at 10:12 AM (outside 8am window). Low-normal, hard to interpret out of window |
+
+### Imaging — 3/17/2026 (Stanford Medicine)
+- **CT Coronary Calcium Score = 1** — Minimal calcified plaque. 69th percentile for 47yo males. Additional sub-threshold calcification in LAD. Heart normal size, no valve issues.
+  - Good news: near-zero calcified burden. But soft plaque is not visible on this scan — lipid urgency unchanged.
+- **Mild hepatic steatosis** — Early fatty liver (MASLD). Explains elevated ferritin (inflammatory marker, not just iron), borderline GGT/ALT. Fully reversible at this stage. Existing protocol addresses it well.
+- **PSA 0.3 / Urinalysis: all normal** — No prostate or kidney concerns.
 
 ---
 
 ## Priority Classification
 
 ### CRITICAL — Immediate Action Required
-1. **Cardiovascular lipid crisis** — ApoB 109, LDL-P 2143, LDL-C 154, Small LDL-P 672, Large HDL-P <3.0
-2. **Prediabetes reversal** — Fasting glucose 103, HbA1c 5.8%, uric acid 6.5
+1. **Cardiovascular lipid crisis** — ApoB 106 mg/dL (target <80), LDL-C 133 (target <70), Lp(a) 87 nmol/L. Improving but still far from targets. Statin discussion urgent.
+2. **Homocysteine elevated** — 13.8 umol/L (NEW, target ≤10). Independent CV risk factor. Add methylfolate immediately.
+3. **Prediabetes** — Glucose improved to 95 ✅, HbA1c 5.8% (lags), HOMA-IR 2.16 (target <1.0). Trajectory is good.
 
 ### HIGH — Address Within First 2 Weeks
-3. **Endothelial dysfunction** — ADMA 102, hs-CRP 0.8
-4. **Lp(a) management** — 76 nmol/L (genetic, requires pharmacological discussion)
+4. **Endothelial dysfunction** — ADMA 102 (from 3/06, not retested), hs-CRP 0.9 (essentially unchanged)
+5. **Lp(a) management** — 87 nmol/L (moderate risk zone, genetic — pharmacological discussion needed)
+6. **Testosterone decline** — Dropped from 419 → 328 ng/dL. Collected at 10:12 AM (not early morning). Needs AM retest + physician review.
 
 ### MODERATE — Optimize Over 8 Weeks
-5. **Thyroid** — TSH 3.17 (above optimal 1.0-2.0)
-6. **Hormonal** — Testosterone 419, DHEA-S 242, Cortisol AM 8.7
-7. **Liver** — GGT 29, ALT 25 (borderline) + **Mild hepatic steatosis confirmed on CT 3/17** (early NAFLD/MASLD)
-8. **Iron** — Ferritin 120 (above optimal 40-100) — elevated ferritin may be driven by liver steatosis/inflammation, not pure iron overload
+7. **Thyroid** — TSH 3.17 → 2.72 (improving). Free T3 normal 3.5. Thyroid antibodies NEGATIVE (Hashimoto's ruled out).
+8. **Liver / Steatosis** — GGT 27, ALT 30. Mild hepatic steatosis on CT. Ferritin trending down (120 → 107).
+9. **Insulin resistance** — HOMA-IR 2.16 (first measurement). Borderline. Glucose normalizing.
+10. **B12** — 398 pg/mL (below 500 optimal, dropped from 455). Continue methylcobalamin 1,000 mcg.
 
 ### UNDER OBSERVATION — Monitor, No Immediate Action
-9. **Vitamin D** — 86 ng/mL (reduce supplementation, retest)
-10. **B12** — 455 pg/mL (slightly below 500 optimal)
-11. **RBC Magnesium** — 5.4 mg/dL (marginally below 5.5)
-12. **eGFR** — 89 (slightly below 90 optimal, monitor)
-13. **Platelet count** — 262 (slightly above 250 optimal range)
+11. **Vitamin D** — 86 → 72 ng/mL (reducing as planned, target 40-60)
+12. **RBC Magnesium** — 5.4 mg/dL from 3/06, not retested
+13. **eGFR** — 89 (stable, no proteinuria on urinalysis — kidneys healthy)
+14. **IGF-1** — 88 ng/mL, Z-score -1.0 (low-normal, monitor annually)
+15. **Uric acid** — 6.3 (was 6.5, improving, target <6.0)
 
 ---
 
@@ -169,9 +222,10 @@ Attia: Supplements are less impactful than lifestyle but targeted use has value.
 |------------|------|-------------------|----------|-------|
 | **Omega-3 (EPA/DHA)** | 3-4g total (2g+ EPA) | Triglycerides 102, HDL-C 47, hs-CRP 0.8, ADMA 102 | Meta-analysis: EPA 2g+ reduces CV events 25% (REDUCE-IT); lowers TG 20-30% | EPA-dominant formula (e.g., Vascepa/icosapent ethyl or high-EPA fish oil). Take with fat-containing meal for absorption |
 | **Vitamin K2 (MK-7)** | 200 mcg | Vitamin D 86 (high) — K2 directs calcium properly | RCTs show K2 prevents vascular calcification with high D levels | ESSENTIAL given Vitamin D at 86. Prevents arterial calcium deposition |
-| **Vitamin B12** (methylcobalamin) | 1000 mcg | B12 455 (below 500 optimal) | Well-established for B12 optimization | Methylated form preferred |
-| **Berberine** | 500mg | Glucose 103, HbA1c 5.8%, LDL-C 154 | Meta-analysis: reduces FBG ~15 mg/dL, HbA1c -0.5%, LDL -20-25 mg/dL | Comparable to metformin for glucose. Also lowers LDL — dual benefit for Sri. Take with food. Can cause GI upset — start at 500mg 1x/day, titrate to 500mg 2x/day |
-| **Citrus Bergamot** | 500mg (standardized to 38% polyphenols) | ApoB 109, LDL-C 154, Triglycerides 102 | RCTs: reduces LDL 20-30%, TG 20-30%, raises HDL 20-40% | Statin-like mechanism (HMG-CoA reductase). Synergistic with berberine |
+| **Vitamin B12** (methylcobalamin) | 1000 mcg | B12 398 (below 500 optimal, dropped on 3/18) | Well-established for B12 optimization | Methylated form preferred. Continue — only 8 days in when 3/18 drawn |
+| **Methylfolate (5-MTHF)** | 400 mcg | **Homocysteine 13.8 HIGH (NEW)** | Meta-analyses: methylfolate + B12 reduce homocysteine 20-30%. Serum folate is normal (16.6) but methylfolate supports the methylation cycle that clears homocysteine | **ADD IMMEDIATELY** — homocysteine is an independent cardiovascular risk factor. Take with B12. Use 5-MTHF form (not folic acid) for superior bioavailability |
+| **Berberine** | 500mg | Glucose 95 (↓ from 103), HbA1c 5.8%, LDL-C 133 (↓ from 154) | Meta-analysis: reduces FBG ~15 mg/dL, HbA1c -0.5%, LDL -20-25 mg/dL | Comparable to metformin for glucose. Also lowers LDL — dual benefit. Take with food. Can cause GI upset — titrate |
+| **Citrus Bergamot** | 500mg (standardized to 38% polyphenols) | ApoB 106, LDL-C 133, Triglycerides 74 | RCTs: reduces LDL 20-30%, TG 20-30%, raises HDL 20-40% | Statin-like mechanism (HMG-CoA reductase). Synergistic with berberine |
 
 ### Midday Stack (with lunch, ~1:30 PM)
 
@@ -196,50 +250,6 @@ Attia: Supplements are less impactful than lifestyle but targeted use has value.
 | **Apigenin** | 50mg | Sleep onset | Huberman sleep stack. Mild sedative via GABA modulation | Derived from chamomile. Gentle, non-habit-forming |
 | **L-Theanine** | 200mg | Sleep quality, next-day calm | RCTs: improves sleep quality, reduces anxiety. Huberman stack | Skip if prone to vivid dreams/sleepwalking (Huberman notes this) |
 | **Glycine** | 2g | Sleep quality, liver support | RCTs: improves subjective sleep quality; also supports glutathione (liver/GGT) | Alternate every other night with L-theanine if desired |
-
-### Bloating Management (Pre-Existing Issue)
-
-> **Important context**: Bloating pre-dates this protocol. Supplements are not the root cause. This protocol's high-fiber, high-fermented-food, legume- and cruciferous-heavy diet may be *worsening* a pre-existing condition that warrants investigation.
-
-**Most Likely Underlying Causes**
-
-| Condition | Key Features | Why Suspect It |
-|-----------|-------------|----------------|
-| **SIBO** (Small Intestinal Bacterial Overgrowth) | Bloating within 60-90 min of eating, worse with carbs/fiber, often with gas and altered bowel habits | Very common and underdiagnosed; this protocol's high-fiber + fermented food load would feed bacterial overgrowth directly |
-| **IBS** (Irritable Bowel Syndrome) | Chronic bloating + altered bowel habits (constipation, diarrhea, or both) without structural cause | Prevalent; stress and dietary changes can worsen it |
-| **FODMAP sensitivity** | Bloating triggered by specific foods: legumes, onions, garlic, cruciferous veg, lactose (kefir), wheat | Meal 2 and Meal 3 in this protocol are high-FODMAP |
-| **Lactose intolerance** | Bloating and gas after dairy, including kefir | Kefir is in this protocol daily |
-| **Low stomach acid / digestive enzyme insufficiency** | Slow digestion, fullness after meals, bloating hours later | More common with age; high-protein meals worsen it |
-
-**Immediate Protocol Adjustments**
-
-The current diet is high in fermentable foods that will worsen all of the above conditions:
-
-- **Reduce fermented foods temporarily** — pull back to 1 serving/day (not 2-4) until root cause is identified. Fermented foods feed SIBO if present
-- **Cook all cruciferous vegetables** — steaming/roasting reduces raffinose content
-- **Drain and rinse canned legumes** — reduces oligosaccharides by ~30-40%
-- **Try removing kefir for 2 weeks** — isolates lactose as a variable
-- **Spread fiber across all 3 meals** — 10-15g per meal maximum
-
-**Diagnostic Priority: Get Tested**
-
-Do not optimize around the symptom without knowing the cause. Discuss with physician:
-
-1. **SIBO breath test** (hydrogen + methane) — gold standard non-invasive test. Methane-dominant SIBO causes bloating and constipation specifically
-2. **Stool test** (comprehensive) — GI-MAP or equivalent: parasites, dysbiosis markers, digestive enzyme markers, calprotectin (inflammation)
-3. **Food intolerance panel** — lactose, fructose breath tests if SIBO ruled out
-
-**If SIBO Confirmed**: Berberine is actually beneficial (antimicrobial against small intestinal overgrowth), but the high-fermented-food and high-fiber diet needs to be temporarily replaced with a low-FODMAP approach during treatment.
-
-**Symptomatic Relief (While Awaiting Diagnosis)**
-
-| Supplement | Dose | Evidence | Notes |
-|------------|------|----------|-------|
-| **Peppermint Oil** (enteric-coated) | 180-200mg, 30 min before meals | Strongest evidence — 2021 ACG guidelines recommend for IBS and functional bloating | Must be enteric-coated. Antispasmodic, reduces intestinal hypersensitivity |
-| **Digestive Enzymes** (with alpha-galactosidase) | 1 capsule with Meals 1 & 2 | Moderate RCT evidence: 58-68% less distension vs placebo | Alpha-galactosidase specifically targets oligosaccharides in legumes/cruciferous veg |
-| **Ginger** (root extract) | 1,000mg with Meal 2 | RCTs: accelerates gastric emptying, prokinetic | Also anti-inflammatory (supports hs-CRP). Can use fresh ginger in food |
-
-**Do NOT** add activated charcoal — binds supplements and reduces their absorption.
 
 ### Supplements to REDUCE or STOP
 
@@ -556,67 +566,7 @@ Assuming ~80 kg body weight:
 
 ---
 
-## 7. NEW TEST RESULTS — March 2026 Imaging & Additional Labs
-
-### CT Coronary Calcium Score — 3/17/2026 (Stanford Medicine)
-
-| Finding | Value | Context |
-|---------|-------|---------|
-| **Total CAC Score** | **1** | Minimal calcified plaque |
-| LAD | 1 | Tiny calcification; additional sub-threshold calcification also noted in LAD |
-| LM, LCX, RCA | 0 | No calcification |
-| **Percentile** | **69th for age/sex** | Higher than 31% of 47yo males |
-
-**What this means:**
-- **Good news**: Score of 1 is near-zero — no significant arterial calcification yet. Heart normal size, no valve issues, no pericardial effusion
-- **Important caveat**: CAC only detects *calcified* plaque. Given your ApoB 109 and LDL-P 2143, there is likely significant *soft (non-calcified) plaque* not visible on this scan. A low CAC score does not mean arteries are clean — it means calcification hasn't progressed yet
-- **Attia's view**: A CAC of 0-1 in someone with your lipid profile means the disease clock is running but hasn't advanced far. This is the window to intervene aggressively. Waiting until the score climbs is not the strategy
-- **The sub-threshold LAD calcification**: A real finding, just below the scoring cutoff. A small early warning
-- **Protocol implication**: Lipid intervention remains CRITICAL. The low CAC score is not reassuring enough to defer treatment given the lipid numbers
-
-### Liver Findings from CT — IMPORTANT NEW FINDING
-
-**Mild steatosis of the liver** confirmed on CT imaging.
-
-This is early **MASLD (Metabolic-Associated Steatotic Liver Disease)**, formerly called NAFLD. This changes the interpretation of several existing biomarkers:
-
-| Biomarker | Previous Interpretation | Updated Interpretation |
-|-----------|------------------------|----------------------|
-| GGT 29 (target <25) | Borderline, alcohol-related | Likely driven by liver steatosis + metabolic dysfunction |
-| ALT 25 (borderline) | Borderline | Early hepatocellular stress from steatosis |
-| Ferritin 120 (elevated) | Possible iron overload | **Likely an inflammatory marker from liver steatosis**, not pure iron overload — ferritin is an acute-phase reactant; steatotic liver releases it |
-| Prediabetes (glucose 103, HbA1c 5.8%) | Insulin resistance | Bidirectional: IR causes steatosis; steatosis worsens IR |
-
-**Why this matters**: Mild steatosis can progress to steatohepatitis (NASH/MASH) → fibrosis → cirrhosis if not reversed. The good news: at this stage it is fully reversible with lifestyle changes.
-
-**Existing protocol already addresses steatosis well:**
-- High-polyphenol EVOO — RCTs show regression of liver steatosis
-- Omega-3 (EPA/DHA) — meta-analyses: reduces liver fat, inflammation
-- Berberine — improves hepatic insulin sensitivity, reduces liver fat
-- Alcohol elimination — critical (alcohol accelerates steatosis to steatohepatitis)
-- Weight loss / caloric restriction — most powerful intervention
-- Exercise — directly reduces hepatic fat
-
-**Additional considerations for steatosis:**
-- **NAC 600mg** (discussed separately) — supports glutathione synthesis in liver; consider adding to morning stack
-- Avoid any hepatotoxic supplements (none currently in protocol)
-- At June retest, add: **ALT, AST, GGT** (liver panel) + consider liver fibroscan if no improvement
-
-### PSA — 3/13/2026
-
-| Test | Result | Range | Assessment |
-|------|--------|-------|------------|
-| PSA | **0.3 ng/mL** | 0.0–4.0 | Excellent — very low |
-
-No prostate concerns. No action required. Retest annually.
-
-### Urinalysis — 3/13/2026
-
-All values normal: no proteinuria, no glucose spillage, no blood, no infection markers. Kidney function appears clean from a urine perspective — reassuring given eGFR 89 and prediabetes (diabetic nephropathy typically shows protein in urine first).
-
----
-
-## 8. RISKS & CONTRAINDICATIONS
+## 7. RISKS & CONTRAINDICATIONS
 
 ### Supplement Interactions to Monitor
 - **Berberine + any future statin**: Both are hepatically metabolized. Monitor liver enzymes (ALT, AST). Berberine inhibits CYP3A4 — can increase statin levels. If statin prescribed, discuss berberine dose adjustment with physician
