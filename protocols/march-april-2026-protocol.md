@@ -3,7 +3,7 @@
 **Status**: Active
 **Start Date**: 2026-03-10
 **Review Date**: 2026-06-01 (with labs)
-**Based on**: 2026-03-06 lab results
+**Based on**: 2026-03-06 lab results + 2026-03-17 imaging/additional tests
 **Frameworks**: Peter Attia (Medicine 3.0), Bryan Johnson (Blueprint), Andrew Huberman (Huberman Lab), Evidence-based exercise science
 
 ---
@@ -21,8 +21,8 @@
 ### MODERATE — Optimize Over 8 Weeks
 5. **Thyroid** — TSH 3.17 (above optimal 1.0-2.0)
 6. **Hormonal** — Testosterone 419, DHEA-S 242, Cortisol AM 8.7
-7. **Liver** — GGT 29, ALT 25 (borderline)
-8. **Iron** — Ferritin 120 (above optimal 40-100)
+7. **Liver** — GGT 29, ALT 25 (borderline) + **Mild hepatic steatosis confirmed on CT 3/17** (early NAFLD/MASLD)
+8. **Iron** — Ferritin 120 (above optimal 40-100) — elevated ferritin may be driven by liver steatosis/inflammation, not pure iron overload
 
 ### UNDER OBSERVATION — Monitor, No Immediate Action
 9. **Vitamin D** — 86 ng/mL (reduce supplementation, retest)
@@ -556,7 +556,67 @@ Assuming ~80 kg body weight:
 
 ---
 
-## 7. RISKS & CONTRAINDICATIONS
+## 7. NEW TEST RESULTS — March 2026 Imaging & Additional Labs
+
+### CT Coronary Calcium Score — 3/17/2026 (Stanford Medicine)
+
+| Finding | Value | Context |
+|---------|-------|---------|
+| **Total CAC Score** | **1** | Minimal calcified plaque |
+| LAD | 1 | Tiny calcification; additional sub-threshold calcification also noted in LAD |
+| LM, LCX, RCA | 0 | No calcification |
+| **Percentile** | **69th for age/sex** | Higher than 31% of 47yo males |
+
+**What this means:**
+- **Good news**: Score of 1 is near-zero — no significant arterial calcification yet. Heart normal size, no valve issues, no pericardial effusion
+- **Important caveat**: CAC only detects *calcified* plaque. Given your ApoB 109 and LDL-P 2143, there is likely significant *soft (non-calcified) plaque* not visible on this scan. A low CAC score does not mean arteries are clean — it means calcification hasn't progressed yet
+- **Attia's view**: A CAC of 0-1 in someone with your lipid profile means the disease clock is running but hasn't advanced far. This is the window to intervene aggressively. Waiting until the score climbs is not the strategy
+- **The sub-threshold LAD calcification**: A real finding, just below the scoring cutoff. A small early warning
+- **Protocol implication**: Lipid intervention remains CRITICAL. The low CAC score is not reassuring enough to defer treatment given the lipid numbers
+
+### Liver Findings from CT — IMPORTANT NEW FINDING
+
+**Mild steatosis of the liver** confirmed on CT imaging.
+
+This is early **MASLD (Metabolic-Associated Steatotic Liver Disease)**, formerly called NAFLD. This changes the interpretation of several existing biomarkers:
+
+| Biomarker | Previous Interpretation | Updated Interpretation |
+|-----------|------------------------|----------------------|
+| GGT 29 (target <25) | Borderline, alcohol-related | Likely driven by liver steatosis + metabolic dysfunction |
+| ALT 25 (borderline) | Borderline | Early hepatocellular stress from steatosis |
+| Ferritin 120 (elevated) | Possible iron overload | **Likely an inflammatory marker from liver steatosis**, not pure iron overload — ferritin is an acute-phase reactant; steatotic liver releases it |
+| Prediabetes (glucose 103, HbA1c 5.8%) | Insulin resistance | Bidirectional: IR causes steatosis; steatosis worsens IR |
+
+**Why this matters**: Mild steatosis can progress to steatohepatitis (NASH/MASH) → fibrosis → cirrhosis if not reversed. The good news: at this stage it is fully reversible with lifestyle changes.
+
+**Existing protocol already addresses steatosis well:**
+- High-polyphenol EVOO — RCTs show regression of liver steatosis
+- Omega-3 (EPA/DHA) — meta-analyses: reduces liver fat, inflammation
+- Berberine — improves hepatic insulin sensitivity, reduces liver fat
+- Alcohol elimination — critical (alcohol accelerates steatosis to steatohepatitis)
+- Weight loss / caloric restriction — most powerful intervention
+- Exercise — directly reduces hepatic fat
+
+**Additional considerations for steatosis:**
+- **NAC 600mg** (discussed separately) — supports glutathione synthesis in liver; consider adding to morning stack
+- Avoid any hepatotoxic supplements (none currently in protocol)
+- At June retest, add: **ALT, AST, GGT** (liver panel) + consider liver fibroscan if no improvement
+
+### PSA — 3/13/2026
+
+| Test | Result | Range | Assessment |
+|------|--------|-------|------------|
+| PSA | **0.3 ng/mL** | 0.0–4.0 | Excellent — very low |
+
+No prostate concerns. No action required. Retest annually.
+
+### Urinalysis — 3/13/2026
+
+All values normal: no proteinuria, no glucose spillage, no blood, no infection markers. Kidney function appears clean from a urine perspective — reassuring given eGFR 89 and prediabetes (diabetic nephropathy typically shows protein in urine first).
+
+---
+
+## 8. RISKS & CONTRAINDICATIONS
 
 ### Supplement Interactions to Monitor
 - **Berberine + any future statin**: Both are hepatically metabolized. Monitor liver enzymes (ALT, AST). Berberine inhibits CYP3A4 — can increase statin levels. If statin prescribed, discuss berberine dose adjustment with physician
