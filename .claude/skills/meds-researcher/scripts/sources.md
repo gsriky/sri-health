@@ -84,8 +84,9 @@ Per research session:
 - Synthesizes peer-reviewed literature, clinical guidelines, and drug information into concise evidence summaries
 - Best used for: quick clinical evidence synthesis, supplement/drug overviews, guideline summaries
 - URL: `https://www.openevidence.com/`
+- **Access**: Requires login — returns 403 to automated fetch. Claude cannot query it directly.
+- **Usage**: Sri queries manually and pastes findings into conversation for analysis
 - Always cross-reference OpenEvidence summaries with primary PubMed sources for PMID citations
-- Note: AI synthesis — verify key claims against original studies
 
 ### PubMed
 - Always extract: PMID, study design, N, primary outcome, effect size, journal
