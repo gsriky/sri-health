@@ -6,13 +6,14 @@
 |----------|--------|-------------|------------------|--------------|
 | 1 | PubMed / PMC | Authoritative | Daily | Abstracts, full-text articles |
 | 2 | Cochrane Library | Gold standard for reviews | Monthly | Systematic reviews |
-| 3 | Examine.com | High (evidence-based) | Weekly-Monthly | Supplement monographs |
-| 4 | ClinicalTrials.gov | Authoritative | Daily | Trial registrations, results |
-| 5 | Google Scholar | Variable (aggregator) | Real-time | Academic papers |
-| 6 | ScienceDirect | High (Elsevier journals) | Daily | Journal articles |
-| 7 | NIH ODS | Authoritative | Quarterly | Supplement fact sheets |
-| 8 | Drugs.com | Moderate-High | Monthly | Interactions, monographs |
-| 9 | ConsumerLab | High (independent testing) | Monthly | Product reviews |
+| 3 | OpenEvidence | High (AI-synthesized clinical) | Continuous | Clinical evidence synthesis, drug/supplement summaries |
+| 4 | Examine.com | High (evidence-based) | Weekly-Monthly | Supplement monographs |
+| 5 | ClinicalTrials.gov | Authoritative | Daily | Trial registrations, results |
+| 6 | Google Scholar | Variable (aggregator) | Real-time | Academic papers |
+| 7 | ScienceDirect | High (Elsevier journals) | Daily | Journal articles |
+| 8 | NIH ODS | Authoritative | Quarterly | Supplement fact sheets |
+| 9 | Drugs.com | Moderate-High | Monthly | Interactions, monographs |
+| 10 | ConsumerLab | High (independent testing) | Monthly | Product reviews |
 
 ## Query Templates
 
@@ -77,6 +78,14 @@ Per research session:
 - Prefer parallel execution for independent searches
 
 ## Source-Specific Notes
+
+### OpenEvidence
+- AI-powered clinical evidence platform built for clinicians and researchers
+- Synthesizes peer-reviewed literature, clinical guidelines, and drug information into concise evidence summaries
+- Best used for: quick clinical evidence synthesis, supplement/drug overviews, guideline summaries
+- URL: `https://www.openevidence.com/`
+- Always cross-reference OpenEvidence summaries with primary PubMed sources for PMID citations
+- Note: AI synthesis — verify key claims against original studies
 
 ### PubMed
 - Always extract: PMID, study design, N, primary outcome, effect size, journal

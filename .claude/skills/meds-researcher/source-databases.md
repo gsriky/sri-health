@@ -4,6 +4,7 @@
 
 | Database | URL | Best For | Access |
 |----------|-----|----------|--------|
+| **OpenEvidence** | openevidence.com | AI-synthesized clinical evidence, drug/supplement summaries, clinical guidelines — clinician-grade | Free |
 | **PubMed** | pubmed.ncbi.nlm.nih.gov | Clinical trials, meta-analyses, systematic reviews | Free (abstracts always; some full-text via PMC) |
 | **Examine.com** | examine.com/supplements/ | Supplement evidence summaries, dosage ranges | Free summaries; full access paid |
 | **Google Scholar** | scholar.google.com | Broad academic search, citation tracking | Free |
