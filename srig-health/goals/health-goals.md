@@ -1,6 +1,30 @@
 # Health Goals — Sri G
 
-**Last updated**: 2026-03-07 (based on 2026-03-06 lab results)
+**Last updated**: 2026-06-09 (incorporated 2026-06-04 lab results; baselines remain 2026-03-06)
+
+## Progress Update — 2026-06-09 (3-month review)
+
+Current values from 2026-06-04 labs (and 2026-03-18 where June didn't retest):
+
+| Goal marker | Baseline (Mar 6) | Current | Status |
+|---|---|---|---|
+| LDL-C | 154 | **140** (Jun 4) | In progress — lifestyle ceiling reached; statin discussion is the path to <70 |
+| Non-HDL | 176 | **160** (Jun 4) | In progress |
+| HDL-C | 47 | **49** (Jun 4) | In progress — needs Zone 2 cardio reinstated |
+| Triglycerides | 102 | **94** (Jun 4) | In progress (was 74 on Mar 18 — regressed) |
+| Lp(a) | 76 | **105** (Jun 4) | ⚠️ Rising (76→87→105) — strengthens PCSK9i discussion |
+| ApoB | 109 | 106 (Mar 18; **not retested in June** — order) | Unknown |
+| HbA1c | 5.8% | **5.7%** (Jun 4) | On expected pace (~0.1–0.2/quarter max) |
+| Fasting glucose | 103 | 95 (Mar 18; not retested) | Improved |
+| Fasting insulin | — | 9.2 µIU/mL, HOMA-IR ~2.2 (Mar 18) | First measurement; above <6 / <1.0 targets |
+| Homocysteine | — | 13.8 HIGH (Mar 18; never followed up) | ⚠️ Retest now that B12 is optimal |
+| TSH | 3.17 | 2.72 (Mar 18) | Improving |
+| Vitamin D | 86 | **51** (Jun 4) | ✅ ACHIEVED (40–60 range) |
+| B12 | 455 | **648** (Jun 4) | ✅ ACHIEVED (>500) |
+| Testosterone | 419 | 422 (Jun 4) | Flat — still below 500 optimal |
+| Ferritin | 120 | 107 (Mar 18) | Improving |
+
+**Key conclusion**: Adherence was verified (alcohol/junk food eliminated, strength training 4x/week, berberine + citrus bergamot taken consistently) and lifestyle delivered its expected ~10% LDL reduction. The remaining gap to ApoB/LDL targets is genetic and requires pharmacotherapy — statin/ezetimibe conversation with physician is now the #1 action (CAC 1 + Lp(a) 105 rising + LDL 140).
 
 ## Primary Goal
 Maximize healthspan and lifespan through evidence-based interventions while maintaining high quality of life.

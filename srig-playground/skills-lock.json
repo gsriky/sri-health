@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "computedHash": "d31e234f0c90694a670222cdd1dafa853e051d7066beda389f1097c22dadd461"
+    },
+    "macos-cleaner": {
+      "source": "daymade/claude-code-skills",
+      "sourceType": "github",
+      "computedHash": "a8fa8cca3c8e4d93bdc6c8ee554cf7759ddaff0b9742b2a9b8cc1b2738373dbb"
+    },
+    "pptx": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "computedHash": "6b8b859d26f93aa059c9870d1ab76b44ab69e3d6757ce4a03cc94cb760888073"
+    }
+  }
+}
