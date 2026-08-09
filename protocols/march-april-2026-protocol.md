@@ -3,33 +3,86 @@
 **Status**: Active
 **Start Date**: 2026-03-10
 **Review Date**: 2026-06-01 (with labs)
-**Based on**: 2026-03-06 lab results
+**Based on**: 2026-03-06 baseline labs + 2026-03-17 imaging + 2026-03-18 follow-up labs
 **Frameworks**: Peter Attia (Medicine 3.0), Bryan Johnson (Blueprint), Andrew Huberman (Huberman Lab), Evidence-based exercise science
+
+---
+
+## 12-Day Progress Update — 3/06 → 3/18 (collected 3/18, reported 3/23)
+
+> Labs drawn 3/18 — only 8 days into the protocol. These early trends are meaningful.
+
+### Wins
+
+| Biomarker | 3/06 | 3/18 | Change | Status |
+|-----------|------|------|--------|--------|
+| Fasting Glucose | 103 | **95** | ▼ 8 pts | ✅ Back to normal range |
+| Triglycerides | 102 | **74** | ▼ 28 pts | ✅ Hit <80 optimal target |
+| LDL-C | 154 | **133** | ▼ 21 pts | 🟡 Still high, moving right direction |
+| HDL-C | 47 | **51** | ▲ 4 pts | 🟡 Improving |
+| ApoB | ~109 | **106** | ▼ 3 pts | 🟡 Slight improvement |
+| TSH | 3.17 | **2.72** | ▼ 0.45 | 🟡 Trending toward optimal |
+| Uric Acid | 6.5 | **6.3** | ▼ 0.2 | 🟡 Improving, not yet at <6.0 |
+| GGT | 29 | **27** | ▼ 2 pts | 🟡 Improving |
+| Ferritin | 120 | **107** | ▼ 13 pts | 🟡 Trending down |
+| Platelet Count | 262 | **239** | ▼ 23 pts | ✅ Now within optimal range |
+| Vitamin D | 86 | **72** | ▼ 14 pts | 🟡 Reducing as planned, still above 60 |
+| DHEA-S | 242 | **266** | ▲ 24 pts | 🟡 Slight improvement |
+
+### New Concerns
+
+| Finding | Value | Significance |
+|---------|-------|-------------|
+| **Homocysteine** | **13.8 umol/L HIGH** (ref ≤13.5) | NEW TEST — elevated. CV risk factor. Likely B12-driven. Action needed |
+| **Testosterone Total** | **328 ng/dL** (was 419) | Significant drop. Different method (MS) may explain some difference. Needs morning retest + physician discussion |
+| **B12** | **398 pg/mL** (was 455) | Below 500 optimal. Supplement only 8 days in. Continue 1,000 mcg methylcobalamin |
+| **Lp(a)** | **87 nmol/L** (was 76) | Slight increase, same moderate risk category. Genetic — not lifestyle-modifiable |
+
+### New Data (First-Time Tests)
+
+| Test | Value | Interpretation |
+|------|-------|---------------|
+| **Fasting Insulin** | 9.2 uIU/mL (≤18.4) | ✅ In range |
+| **HOMA-IR** (calculated) | **(95 × 9.2) / 405 = 2.16** | Borderline — Attia optimal <1.0; IR threshold ~2.5. Early insulin resistance confirmed |
+| **Free T3** | 3.5 pg/mL (2.3-4.2) | ✅ Normal — thyroid hormone conversion working |
+| **Thyroid antibodies** | Both negative | ✅ Hashimoto's ruled out — TSH elevation is not autoimmune |
+| **Folate** | 16.6 ng/mL (normal >5.4) | ✅ Normal folate — homocysteine elevation more likely B12-driven |
+| **IGF-1** | 88 ng/mL, Z-score -1.0 | Low-normal. Not urgent but monitor. |
+| **Sed Rate (ESR)** | 2 mm/h (≤15) | ✅ Excellent — very low systemic inflammation |
+| **Cortisol** | 5.8 mcg/dL | Collected at 10:12 AM (outside 8am window). Low-normal, hard to interpret out of window |
+
+### Imaging — 3/17/2026 (Stanford Medicine)
+- **CT Coronary Calcium Score = 1** — Minimal calcified plaque. 69th percentile for 47yo males. Additional sub-threshold calcification in LAD. Heart normal size, no valve issues.
+  - Good news: near-zero calcified burden. But soft plaque is not visible on this scan — lipid urgency unchanged.
+- **Mild hepatic steatosis** — Early fatty liver (MASLD). Explains elevated ferritin (inflammatory marker, not just iron), borderline GGT/ALT. Fully reversible at this stage. Existing protocol addresses it well.
+- **PSA 0.3 / Urinalysis: all normal** — No prostate or kidney concerns.
 
 ---
 
 ## Priority Classification
 
 ### CRITICAL — Immediate Action Required
-1. **Cardiovascular lipid crisis** — ApoB 109, LDL-P 2143, LDL-C 154, Small LDL-P 672, Large HDL-P <3.0
-2. **Prediabetes reversal** — Fasting glucose 103, HbA1c 5.8%, uric acid 6.5
+1. **Cardiovascular lipid crisis** — ApoB 106 mg/dL (target <80), LDL-C 133 (target <70), Lp(a) 87 nmol/L. Improving but still far from targets. Statin discussion urgent.
+2. **Homocysteine elevated** — 13.8 umol/L (NEW, target ≤10). Independent CV risk factor. Add methylfolate immediately.
+3. **Prediabetes** — Glucose improved to 95 ✅, HbA1c 5.8% (lags), HOMA-IR 2.16 (target <1.0). Trajectory is good.
 
 ### HIGH — Address Within First 2 Weeks
-3. **Endothelial dysfunction** — ADMA 102, hs-CRP 0.8
-4. **Lp(a) management** — 76 nmol/L (genetic, requires pharmacological discussion)
+4. **Endothelial dysfunction** — ADMA 102 (from 3/06, not retested), hs-CRP 0.9 (essentially unchanged)
+5. **Lp(a) management** — 87 nmol/L (moderate risk zone, genetic — pharmacological discussion needed)
+6. **Testosterone decline** — Dropped from 419 → 328 ng/dL. Collected at 10:12 AM (not early morning). Needs AM retest + physician review.
 
 ### MODERATE — Optimize Over 8 Weeks
-5. **Thyroid** — TSH 3.17 (above optimal 1.0-2.0)
-6. **Hormonal** — Testosterone 419, DHEA-S 242, Cortisol AM 8.7
-7. **Liver** — GGT 29, ALT 25 (borderline)
-8. **Iron** — Ferritin 120 (above optimal 40-100)
+7. **Thyroid** — TSH 3.17 → 2.72 (improving). Free T3 normal 3.5. Thyroid antibodies NEGATIVE (Hashimoto's ruled out).
+8. **Liver / Steatosis** — GGT 27, ALT 30. Mild hepatic steatosis on CT. Ferritin trending down (120 → 107).
+9. **Insulin resistance** — HOMA-IR 2.16 (first measurement). Borderline. Glucose normalizing.
+10. **B12** — 398 pg/mL (below 500 optimal, dropped from 455). Continue methylcobalamin 1,000 mcg.
 
 ### UNDER OBSERVATION — Monitor, No Immediate Action
-9. **Vitamin D** — 86 ng/mL (reduce supplementation, retest)
-10. **B12** — 455 pg/mL (slightly below 500 optimal)
-11. **RBC Magnesium** — 5.4 mg/dL (marginally below 5.5)
-12. **eGFR** — 89 (slightly below 90 optimal, monitor)
-13. **Platelet count** — 262 (slightly above 250 optimal range)
+11. **Vitamin D** — 86 → 72 ng/mL (reducing as planned, target 40-60)
+12. **RBC Magnesium** — 5.4 mg/dL from 3/06, not retested
+13. **eGFR** — 89 (stable, no proteinuria on urinalysis — kidneys healthy)
+14. **IGF-1** — 88 ng/mL, Z-score -1.0 (low-normal, monitor annually)
+15. **Uric acid** — 6.3 (was 6.5, improving, target <6.0)
 
 ---
 
@@ -169,9 +222,10 @@ Attia: Supplements are less impactful than lifestyle but targeted use has value.
 |------------|------|-------------------|----------|-------|
 | **Omega-3 (EPA/DHA)** | 3-4g total (2g+ EPA) | Triglycerides 102, HDL-C 47, hs-CRP 0.8, ADMA 102 | Meta-analysis: EPA 2g+ reduces CV events 25% (REDUCE-IT); lowers TG 20-30% | EPA-dominant formula (e.g., Vascepa/icosapent ethyl or high-EPA fish oil). Take with fat-containing meal for absorption |
 | **Vitamin K2 (MK-7)** | 200 mcg | Vitamin D 86 (high) — K2 directs calcium properly | RCTs show K2 prevents vascular calcification with high D levels | ESSENTIAL given Vitamin D at 86. Prevents arterial calcium deposition |
-| **Vitamin B12** (methylcobalamin) | 1000 mcg | B12 455 (below 500 optimal) | Well-established for B12 optimization | Methylated form preferred |
-| **Berberine** | 500mg | Glucose 103, HbA1c 5.8%, LDL-C 154 | Meta-analysis: reduces FBG ~15 mg/dL, HbA1c -0.5%, LDL -20-25 mg/dL | Comparable to metformin for glucose. Also lowers LDL — dual benefit for Sri. Take with food. Can cause GI upset — start at 500mg 1x/day, titrate to 500mg 2x/day |
-| **Citrus Bergamot** | 500mg (standardized to 38% polyphenols) | ApoB 109, LDL-C 154, Triglycerides 102 | RCTs: reduces LDL 20-30%, TG 20-30%, raises HDL 20-40% | Statin-like mechanism (HMG-CoA reductase). Synergistic with berberine |
+| **Vitamin B12** (methylcobalamin) | 1000 mcg | B12 398 (below 500 optimal, dropped on 3/18) | Well-established for B12 optimization | Methylated form preferred. Continue — only 8 days in when 3/18 drawn |
+| **Methylfolate (5-MTHF)** | 400 mcg | **Homocysteine 13.8 HIGH (NEW)** | Meta-analyses: methylfolate + B12 reduce homocysteine 20-30%. Serum folate is normal (16.6) but methylfolate supports the methylation cycle that clears homocysteine | **ADD IMMEDIATELY** — homocysteine is an independent cardiovascular risk factor. Take with B12. Use 5-MTHF form (not folic acid) for superior bioavailability |
+| **Berberine** | 500mg | Glucose 95 (↓ from 103), HbA1c 5.8%, LDL-C 133 (↓ from 154) | Meta-analysis: reduces FBG ~15 mg/dL, HbA1c -0.5%, LDL -20-25 mg/dL | Comparable to metformin for glucose. Also lowers LDL — dual benefit. Take with food. Can cause GI upset — titrate |
+| **Citrus Bergamot** | 500mg (standardized to 38% polyphenols) | ApoB 106, LDL-C 133, Triglycerides 74 | RCTs: reduces LDL 20-30%, TG 20-30%, raises HDL 20-40% | Statin-like mechanism (HMG-CoA reductase). Synergistic with berberine |
 
 ### Midday Stack (with lunch, ~1:30 PM)
 
